@@ -14,6 +14,7 @@ class MainActivity : AppCompatActivity() {
 
         Toast.makeText(this, "Hello World!", Toast.LENGTH_SHORT).show()
 
+        a;dnfasdnfasdf;lnasd
 
     }
 }
